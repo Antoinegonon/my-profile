@@ -1,0 +1,22 @@
+body {
+  
+
+ background-color: #738290b;
+  color: rgb(50, 50, 50); 
+  font-size: 17px ;
+  font-family: 'Noto Serif', serif;; 
+
+  h1, h2, h3, h4 { 
+  	font-family: 'Arvo', serif; 
+    color: grey ;
+}
+
+
+  
+ div { 
+ 	
+     background: white;
+     border-radius: 3px; 
+ 	 border-top: 1px red;
+ 	 border bottom: 1px green;
+    }
